@@ -1,4 +1,3 @@
-#supposed original file
 import os
 from rich.console import Console
 
